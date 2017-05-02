@@ -41,3 +41,6 @@ Once you've decided to commit the time to seeing your pull request through, plea
 2. Submit your pull request early for feedback.
 3. Include functional tests with your changes.
 4. Follow the [WordPress Coding Standards](http://make.wordpress.org/core/handbook/coding-standards/).
+
+---
+<small>[WP API Libraries](https://wp-api-libraries.com)</small>
