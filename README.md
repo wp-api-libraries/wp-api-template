@@ -9,9 +9,7 @@ Quick links: [Using](#using) | [Installing](#installing) | [Contributing](#contr
 
 ## Installing
 
-Installing this package requires WP-CLI v1.1.0 or greater. Update to the latest stable release with `wp cli update`.
 
-Once you've done so, you can install this package with `wp package install bhubbard/wp-cli-codeclimate`.
 
 ## Contributing
 
